@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;JavaScript+%7C+Python+%7C+SQL;Building+Fast+%26+Responsive+Websites" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding boy" width="300" src="https://img.freepik.com/free-vector/boy-using-laptop-cartoon-character-sticker_1308-61547.jpg?ga=GA1.1.1482709631.1708532872&semt=ais_hybrid&w=740" />
+<img align="right" alt="Coding boy" width="300" src="[https://img.freepik.com/free-vector/boy-using-laptop-cartoon-character-sticker_1308-61547.jpg](https://www.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_20188201.htm#fromView=image_search_similar&page=2&position=21&uuid=df11aa58-34a2-4b44-a6a7-ff2f08687c84&query=animated+computer+boys+Adults)?ga=GA1.1.1482709631.1708532872&semt=ais_hybrid&w=740" />
 
 - 🔭 I’m currently working as a **Freelance Website Developer**
 - 🌱 Currently learning advanced **Software Design Patterns**, **RESTful APIs Services**, and **Intelligent Automation**.
